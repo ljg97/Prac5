@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(201, 207, 212);
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    position: relative;
+    text-align: center;
+    font-size: larger;
+}
+section.T{
+    background-color: rgb(139, 152, 168);
+    color:  rgb(57, 62, 70);
+    font-size: xx-large;
+    text-decoration: underline;
+    font-weight: bold;
+}
+section.subT{
+    background-color: rgb(159, 172, 185);
+    color:  rgb(90, 97, 109);
+    font-size: larger;
+    font-style: oblique;
+    font-weight: bold;
+}
+section.text{
+    background-color: rgb(176, 190, 202);
+}
+span.imp{
+    color: rgb(22, 128, 170);
+}
+span.res{
+    color: rgb(10, 137, 187);
+    font-weight: bold;
+
+}
+footer{
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+}
